@@ -208,7 +208,7 @@ h5 {
   .menuBtn,
   .overlay,
   .close-button {
-    display: none !important;
+    display: none;
   }
 
   .option {
