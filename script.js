@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const overlay = document.querySelector(".overlay");
   const option = document.querySelectorAll(".option");
   const list = document.querySelectorAll(".list");
-  const features = document.querySelector(".features");
+
 
   menuBtn.addEventListener("click", () => {
     menuPage.classList.remove("hidden");
